@@ -11,7 +11,7 @@ Enter the code in the designated section:
 ```sh
 $ cd /home/workspace/
 $ git clone https://github.com/zvatansever/particle-filter-localization
-$ cd RoboND-MCL-Lab/
+$ cd particle-filter-localization/
 $ rm -rf Images/*
 $ g++ main.cpp -o app -std=c++11 -I/usr/include/python2.7 -lpython2.7
 ```
