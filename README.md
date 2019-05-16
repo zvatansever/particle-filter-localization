@@ -5,7 +5,6 @@ You will be able to observe the `MCL` in action through the generated images.
 
 ### Editing the Program
 Enter the code in the designated section:
-```C++
 
 ### Compiling the Program
 ```sh
